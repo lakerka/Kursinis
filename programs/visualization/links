@@ -1,0 +1,22 @@
+Visualization I need:
+http://www.jeromecukier.net/projects/models/nuitblanche.html#night=500&duration=100&nbPeople=2500&step=15&stepStd=1&timePerVisit=20&timePerVisitO=2&nbAttractions=50&o=0.2&minCap=5&maxCap=20&mode=true&lyak=true
+
+Visualization tool d3:
+http://d3js.org/
+
+D3 examples:
+https://github.com/mbostock/d3/wiki/Gallery
+
+Interesting grapgh visualization:
+http://bl.ocks.org/upphiminn/6515478
+
+Moving planes:
+http://www.tnoda.com/blog/2014-04-02
+
+SVG tags:
+http://www.w3.org/TR/SVG/shapes.html#CircleElement
+
+
+SVG transformations:
+http://tutorials.jenkov.com/svg/svg-animation.html
+
